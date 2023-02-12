@@ -7,10 +7,6 @@ This repository includes the stripe library so NO OTHER INSTALLATION is required
 have an SSL certificate. This is a huge security risk implementing otherwise.
 I enjoy making software so much! Please, if you see any issues make them known!
 
-Documentation
-==============
-https://nateduhamell.com/github-project-stripe-checkout-form/
-
 Install
 =======
 Keys located in main "index.php" file
@@ -50,10 +46,6 @@ Requirements
 - PHP 5+
 - MySQL database
 - SSL Certificate (Should not even be used at all wihtout)
-
-Preview
-===============
-https://files.nateduhamell.com/test/stripe-checkout-form-master/
 
 License
 ==========
